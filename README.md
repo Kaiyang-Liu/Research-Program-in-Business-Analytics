@@ -1,5 +1,16 @@
 # Research-Program-in-Business-Analytics
 
+# Business insights of Airbnb in Fenway, Boston, USA
+## 1
+This repo contains some basic python exercise related to text analysis, data analysis, and some machine learning techniques which can contribute to the skills of business analystics, it is a fundemental knowledge base support for Hemingway_Analysis Project
+
+## 2
+This repo also contains a business analytics project related to the real world - Business insights of Airbnb in Fenway, Boston, USA.
+This project is a group project contains a brief business analytics report and a PowerPoint for presentation.
+The dataset come form Kaggle as well as Airbnb Official website. 
+Copyright@All group members in this project 
+
+
 # Hemingway_Analysis
 This is a basic text analysis project based on Hemingway's novels and output as storytelling reports based on data.
 
